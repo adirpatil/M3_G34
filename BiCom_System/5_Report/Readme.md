@@ -31,6 +31,15 @@ A Bicom system is the extention of the unidirectional RKE to bidirectional RKE. 
 |LLR3|	Press blue button thrice, All led glows in clockwise manner.|
 |LLR4|	Press blue button four time, All led glows in anticlockwise manner.|
 
+# State of art:
+
+* Buttons shall be provided to ease the access of available features.
+* Window status of the car is displayed with a button press.
+* Alarm status of the car is displayed with a button press.
+* Battery status of the car is displayed with a button press.
+* Display status of the car is displayed with a button press.
+
+
 # SWOT Analysis:
 
 ![images](https://user-images.githubusercontent.com/98880912/157847938-a582fbca-bfa5-464a-a5c9-cf117a5443fd.jpg)
