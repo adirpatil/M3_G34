@@ -19,8 +19,29 @@
    * Remote keyless entry systems alarm the vehicle against theft and lock and unlock the doors
  # How :
    * Keyless entry to a vehicle is usually attained by sending a radio frequency signal from a remote transmitter to the receiver in the car.
-   
+ 
+ # SWOT Analysis:
+ 
+ ![images](https://user-images.githubusercontent.com/98880912/157831541-a559c6cf-2db2-49d1-bcbd-822a85327e8c.jpg)
 
+ 
+ 
+ # Strength 
+  * No need of human interaction required.
+  * Optimized power and range and Advance security.
+
+ # Weakness
+  * Limitted usage Range.
+  * it consist of electronic components which may damge easly when drop on hard surface.
+  * 
+ # Opportunities
+  * Huge scope  in automobile industry.
+  * Also allow users to use their smartphones as keys and we can controlling extra features like remote start from anywhere within range.
+
+ # Threats
+  * WE have to wait to make next task untill first action is completed.
+  * Chances of theft.
+ 
 # High Level Requirements :
 
 |ID|	Description|
