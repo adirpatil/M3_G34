@@ -52,6 +52,16 @@ Remote Keyless Entry (RKE) systems represent the standard solution for convenien
  # Threats
   * WE have to wait to make next task untill first action is completed.
   * Chances of theft.
+
+# Behavioural Flowchart:
+
+![Behavioural Flowchart drawio](https://user-images.githubusercontent.com/98880912/157861522-c6a95dc4-3fd3-4283-aad9-36e74ba106ff.png)
+
+
+# Structural Flowchart:
+
+![Structural Flowchart](https://user-images.githubusercontent.com/98880912/157861541-ed6520d5-d2d7-460d-b9bc-b5a60f7aaf5c.png)
+
  
 # High Level Requirements :
 
