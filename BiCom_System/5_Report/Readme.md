@@ -116,3 +116,9 @@ A Bicom system is the extention of the unidirectional RKE to bidirectional RKE. 
 # How
 
 * The features can be used by buttons of your remote or device in a single click .
+
+# Goals of this project :
+
+- **_To reduce the human effort_**
+- **_To provide quicker & better Display technique_**
+
