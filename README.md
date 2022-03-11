@@ -23,7 +23,7 @@
 ||8_Output| Contains Hight/Low Level Output|
 
 
-# CollAborators for Project :
+# Collaborators for Project :
 
 |Sr. no.|Name|
 |--|--|
