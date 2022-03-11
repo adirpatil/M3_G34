@@ -24,5 +24,11 @@
 
 
 # CollAborators for Project :
-1) Vaishnavi Bambal https://github.com/8Vaish/M2-EmbSys.git
+
+|Sr. no.|Name|
+|--|--|
+|01| Chinmay Bonde|
+|02| Vaishnavi Bambal| 
+|03| Ritik Rahangdale|
+|04|  Aditya Patil|
 
