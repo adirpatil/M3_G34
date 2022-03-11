@@ -79,3 +79,7 @@ Remote Keyless Entry (RKE) systems represent the standard solution for convenien
 * A passive keyless entry (PKE) system uses advanced technology to take vehicle accessibility to a higher level.
 * If someone tries to unclock Without pressing key bottons or key alarms get activated and user gets aware of the  thief.
   
+# Goals of this project :
+
+- **_To reduce the human effort_**
+- **_To provide better & quicker unlocking technique_**
