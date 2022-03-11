@@ -72,3 +72,10 @@ Remote Keyless Entry (RKE) systems represent the standard solution for convenien
 |LLR4| If button is pressed Four times LED's shall glow in anticlockwise manner & approach light glow.|
 |LLR5| the should be provided with safety pupose to ensure the more secuirty.|
 
+# Applications:
+
+* commonplace devices.
+* provide car owners with a degree of convenience, making the task of physically inserting a key unnecessary.
+* A passive keyless entry (PKE) system uses advanced technology to take vehicle accessibility to a higher level.
+* If someone tries to unclock Without pressing key bottons or key alarms get activated and user gets aware of the  thief.
+  
