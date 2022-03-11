@@ -99,7 +99,14 @@ Remote Keyless Entry (RKE) systems represent the standard solution for convenien
 |03|  Check for alarm activate/deactivate|	User presses button thrice|	LEDs should on in clockwise direction|	LEDs on in clockwisedirection| Pass|
 |04|	Check for approach light|	User presses button four times|	LEDs should on in anticlockwise direction|	LEDs  on in  anticlockwiseDirection|	Pass|
   
-  
+# Best Methods Followed :
+
+* Exact Mapping of code to avoid confusions
+* Mentioning of both High level and Low level Behavioral and structural diagrams for better understanding
+* Followed the exact symbols to make the understanding easier
+* Detailed explanation in Low level Behavioural and Structural Diagrams
+* Also detailed explanation of test plan output given for checking the output.
+
 # Goals of this project :
 
 - **_To reduce the human effort_**
